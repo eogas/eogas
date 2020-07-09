@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Evan and I’m a software developer. I currently live and work in the Boston area. I enjoy building DIY guitar pedals, homebrewing, cycling, and hoarding books.
+
+- 🔭 I’m currently working on Visual Studio extensibility
+- 🌱 I’m currently learning about [Microservices architecture](https://app.pluralsight.com/paths/skill/microservices-architecture)
+- 📫 How to reach me: [@eOgas](https://twitter.com/eOgas)
+- 😄 Pronouns: He/Him
+
+Read my blog at [evanisgreat.com](http://www.evanisgreat.com/)
+
 <!--
 **eogas/eogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
