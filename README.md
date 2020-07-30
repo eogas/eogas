@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Evan and I’m a software developer. I currently live and work in the Boston area. I enjoy building DIY guitar pedals, homebrewing, cycling, and hoarding books.
+My name is Evan and I’m a software developer. I currently live and work in the Boston area. I enjoy building DIY guitar pedals, homebrewing, first-person shooters, riding bikes, and hoarding books.
 
 - 🔭 I’m currently working on react and ASP .NET Core
 - 🌱 I’m currently learning about [Microservices architecture](https://app.pluralsight.com/paths/skill/microservices-architecture)
