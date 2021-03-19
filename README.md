@@ -3,7 +3,7 @@
 My name is Evan and I’m a software developer. I currently live and work in the Boston area. I enjoy building DIY guitar pedals, homebrewing, playing first-person shooters, riding bikes, and hoarding books.
 
 - 🔭 I’m currently working on react and ASP .NET Core
-- 🌱 I’m currently learning about [Microservices architecture](https://app.pluralsight.com/paths/skill/microservices-architecture)
+- 🌱 I’m currently learning about [Azure DevOps Server Extensibility](https://docs.microsoft.com/en-us/azure/devops/extend/get-started/node?view=azure-devops)
 - 📫 How to reach me: [@eOgas](https://twitter.com/eOgas)
 - 😄 Pronouns: He/Him
 
