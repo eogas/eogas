@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Evan and I’m a software developer. I currently live and work in the Boston area. I enjoy building DIY guitar pedals, homebrewing, playing first-person shooters, riding bikes, and hoarding books.
+My name is Evan and I’m a software developer. I currently live and work (full remote) in Milwaukee. I enjoy building DIY guitar pedals, homebrewing, playing first-person shooters, riding bikes, and hoarding books.
 
-- 🔭 I’m currently working on react and ASP .NET Core
-- 🌱 I’m currently learning about [Azure DevOps Server Extensibility](https://docs.microsoft.com/en-us/azure/devops/extend/get-started/node?view=azure-devops)
+- 🔭 I’m currently working on ASP .NET Core backends and C++ build gremlins
+- 🌱 I’m currently learning about Microservices
 - 📫 How to reach me: [@eOgas](https://twitter.com/eOgas)
 - 😄 Pronouns: He/Him
 
