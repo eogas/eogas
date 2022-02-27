@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Evan and I’m a software developer. I currently live and work (full remote) in Milwaukee. I enjoy building DIY guitar pedals, homebrewing, playing first-person shooters, riding bikes, and hoarding books.
+My name is Evan and I’m a software developer. I currently live and work (full remote) in Milwaukee, WI. I enjoy building DIY guitar pedals, homebrewing, playing first-person shooters, riding bikes, and hoarding books.
 
 - 🔭 I’m currently working on ASP .NET Core backends and C++ build gremlins
 - 🌱 I’m currently learning about Microservices
