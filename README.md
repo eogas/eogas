@@ -3,7 +3,7 @@
 My name is Evan and I’m a software developer. I currently live and work (remote) in Milwaukee, WI. I enjoy playing first-person shooters, riding bikes, and analog photography.
 
 - 📘 I’m currently reading [Code That Fits in Your Head](https://blog.ploeh.dk/2021/06/14/new-book-code-that-fits-in-your-head/) by Mark Seemann
-- 🌱 I’m currently learning about React and Azure Static Web Apps
+- 🌱 I’m currently learning about [Microservices in .NET](https://www.youtube.com/watch?v=DgVjEo3OGBI)
 - 📫 How to reach me: [@eOgas](https://twitter.com/eOgas)
 - 😄 Pronouns: He/Him
 
