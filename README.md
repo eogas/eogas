@@ -4,7 +4,7 @@ My name is Evan and I’m a software developer. I currently live and work (remot
 
 - 📘 I’m currently reading [Code That Fits in Your Head](https://blog.ploeh.dk/2021/06/14/new-book-code-that-fits-in-your-head/) by Mark Seemann
 - 🌱 I’m currently learning about [Microservices in .NET](https://www.youtube.com/watch?v=DgVjEo3OGBI)
-- 📫 How to reach me: [@eOgas](https://twitter.com/eOgas)
+- 📫 How to reach me: [@eogas]([https://twitter.com/eOgas](https://hachyderm.io/web/@eogas))/
 - 😄 Pronouns: He/Him
 
 Buy my mixtape at [evanisgreat.com](http://www.evanisgreat.com/)
