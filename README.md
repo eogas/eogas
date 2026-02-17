@@ -2,9 +2,9 @@
 
 My name is Evan and I’m a software developer. I currently live and work (remote) in Milwaukee, WI. I enjoy playing first-person shooters, riding bikes, and analog photography.
 
-- 📘 I’m currently reading [Palo Alto](https://www.littlebrown.com/titles/malcolm-harris/palo-alto/9780316592031/) by Malcolm Harris
-- 🌱 I’m currently learning about [Microservices in .NET](https://www.youtube.com/watch?v=DgVjEo3OGBI)
-- 📫 How to reach me: [@eogas](https://hachyderm.io/web/@eogas)
+- 📘 I’m currently reading [Character Limit](https://www.penguinrandomhouse.com/books/737290/character-limit-by-kate-conger-and-ryan-mac/) by Kate Conger and Ryan Mac
+- 🌱 I’m currently learning about Entity Framework Core
+- 📫 How to reach me: [@eogas](https://www.instagram.com/eogas/)
 - 😄 Pronouns: He/Him
 
 Buy my mixtape at [evanisgreat.com](http://www.evanisgreat.com/)
